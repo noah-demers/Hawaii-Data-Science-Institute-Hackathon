@@ -246,14 +246,4 @@ The attached scoring implementation prints its report to standard output. It doe
 - The final scorer reads structured action and alert logs. It does not directly parse `auth.log` or compare OpSim plan and execution JSON files.
 - Deployment paths are fixed and may need adjustment outside the original environment.
 
-## Project Credits
-
-- Noah deMers — cybersecurity monitoring, alert workflow, and scoring.
-- Noah Munz — Rubin OpSim integration and telescope control API.
-- Andrew Zilnicki — project management and coordination.
-- Dr. Sean Cleveland — project sponsor.
-
-## Authorized Use
-
-This project is intended for controlled, authorized cybersecurity exercises. Conduct attacks only against systems explicitly included in the exercise scope.
 
